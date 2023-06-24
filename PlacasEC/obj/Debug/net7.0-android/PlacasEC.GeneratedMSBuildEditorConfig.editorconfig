@@ -32,6 +32,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = PlacasEC.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[C:/Users/rfzh1/source/repos/PlacasEC/PlacasEC/MainPage2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlacasEC.MainPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage2.xaml
+
 [C:/Users/rfzh1/source/repos/PlacasEC/PlacasEC/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PlacasEC.Resources.Styles.Colors.xaml
